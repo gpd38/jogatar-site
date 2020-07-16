@@ -1,0 +1,1 @@
+Fale sobre qualquer assunto relacionado ao tema do grupo Jogatar !

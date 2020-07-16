@@ -1,0 +1,3 @@
+Fale um pouco sobre você, suas skills, seus projetos, redes sociais e qualquer outra informação que identifique você na mídia.
+
+Ex.: Nome, escolaridade, github, linkedin, idade, twitter, facebook, instagram, site pessoal, etc...
